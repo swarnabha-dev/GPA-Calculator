@@ -59,3 +59,6 @@ st.markdown("""
         <a href="https://www.linkedin.com/in/swarnabha-halder-627692254/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="vertical-align: middle;"></a>
     </div>
     """, unsafe_allow_html=True)
+
+if __name__ == "__main__":
+    main()
