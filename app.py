@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 # Load custom CSS from styles.css
-with open("styles.css") as f:
+with open("static/styles.css") as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 st.title("GPA Calculator")
