@@ -54,8 +54,8 @@ else:
 st.markdown("""
     <div class="footer">
         Made by Swarnabha Halder
-        <a href="https://github.com/swarnabha-dev/" target="_blank"><img src="https://img.icons8.com/?size=48&id=LoL4bFzqmAa0&format=png&color=000000" style="vertical-align: middle;"></a>
-        <a href="https://www.instagram.com/swarnabha_halder/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="vertical-align: middle;"></a>
-        <a href="https://www.linkedin.com/in/swarnabha-halder-627692254/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="vertical-align: middle;"></a>
+        <a href="https://github.com/swarnabha-dev/" target="_blank"><img src="https://img.icons8.com/?size=30&id=LoL4bFzqmAa0&format=png&color=000000" style="vertical-align: middle;"></a>
+        <a href="https://www.instagram.com/swarnabha_halder/" target="_blank"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" style="vertical-align: middle;"></a>
+        <a href="https://www.linkedin.com/in/swarnabha-halder-627692254/" target="_blank"><img src="https://img.icons8.com/color/30/000000/linkedin.png" style="vertical-align: middle;"></a>
     </div>
     """, unsafe_allow_html=True)
